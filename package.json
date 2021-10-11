@@ -15,8 +15,8 @@
     "postbuild": "zip -r archive.zip build"
   },
   "dependencies": {
-    "@material-ui/core": "^4.0.0",
-    "@material-ui/icons": "^4.9.1",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@unstoppabledomains/resolution": "^1.1.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
